@@ -360,6 +360,11 @@ img:hover {
     height: 60px;
 }
 
+.alura__link{
+    text-decoration: none;
+    color: inherit;
+}
+
 @media(min-width: 720px) {
 
     /* Header */
